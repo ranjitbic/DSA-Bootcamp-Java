@@ -13,7 +13,5 @@ public class Fibo {
             b=a+b;
             a=temp;
         }
-
-        // System.out.println(b);
     }
 }
